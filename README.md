@@ -1,4 +1,5 @@
-# NoSQL-Social-Network-API
+# NoSQL
+
 ## Table of Contents
 * [Description](#description)
 * [Installation](#installation)
@@ -15,23 +16,27 @@ A user can use this API to create new users with a valid username and email, add
 ## Installation
 To run this code, simply clone the code, open the cloned code in your favorite IDE, run `npm install` to install dependencies and then run `npm start` to start the server.
 
-## Usage
+npm install 
+npm install express
+npm install mongoose
+
+## Screenshot
+
+![screenshot1](/Assets/18-nosql-homework-demo-01.gif)
+
+![screenshot2](/Assets/18-nosql-homework-demo-02.gif)
+
+![screenshot3](/Assets/18-nosql-homework-demo-03.gif)
+
+![screenshot4](/Assets/18-nosql-homework-demo-04.gif)
+
+## Video
 
 See [this]() video to see an example of how this Social Network API is used.
 
 ## License
 no license
 
-Copyright 2021 ggamb
-
-This project is licensed under the MIT License. For the full license see this [link](https://opensource.org/licenses/MIT)
-
-## Contributing
-
-If you would like to contribute, feel free to fork this code and try it yourself.
-
-## Tests
-I did not use tests for this project.
-
 ## Questions?
-My Github: [ggamb](https://github.com/ggamb)
+
+https://github.com/Adzy89
